@@ -1,0 +1,36 @@
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\bin\Debug\Magma.exe.config
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\bin\Debug\Magma.exe
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\bin\Debug\Magma.pdb
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.Main_Window.resources
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.Properties.Resources.resources
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.exe
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Magma\obj\Debug\Magma.pdb
+C:\Users\Tony\Desktop\Magma\bin\Debug\Magma.exe.config
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.exe
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.pdb
+C:\Users\Tony\Desktop\Magma\bin\Debug\Magma.exe
+C:\Users\Tony\Desktop\Magma\bin\Debug\Magma.pdb
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.Properties.Resources.resources
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.csproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\Magma - Copy\bin\Debug\Magma.exe.config
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.exe
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.pdb
+C:\Users\Tony\Desktop\Magma - Copy\bin\Debug\Magma.exe
+C:\Users\Tony\Desktop\Magma - Copy\bin\Debug\Magma.pdb
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.Properties.Resources.resources
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.csproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\Magma - Copy\obj\Debug\Magma.GameWindow.resources
+C:\Users\Tony\Desktop\Magma\obj\Debug\Magma.GameWindow.resources
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\bin\Debug\Magma.exe.config
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.exe
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.pdb
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\bin\Debug\Magma.exe
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\bin\Debug\Magma.pdb
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.GameWindow.resources
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.Properties.Resources.resources
+C:\Users\Brandon\Documents\C346\Project With Tony's Work\Magma\obj\Debug\Magma.csproj.GenerateResource.Cache

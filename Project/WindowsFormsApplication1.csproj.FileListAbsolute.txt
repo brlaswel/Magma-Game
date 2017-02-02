@@ -1,0 +1,18 @@
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Start_Window.resources
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\tony\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.Start_Window.resources
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Brandon\Documents\C346\Project\MagmaGame\MagmaGame\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

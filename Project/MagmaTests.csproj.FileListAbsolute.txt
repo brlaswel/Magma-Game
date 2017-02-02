@@ -1,0 +1,8 @@
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\bin\Debug\MagmaTests.dll
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\bin\Debug\MagmaTests.pdb
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\bin\Debug\Magma.exe
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\bin\Debug\Magma.pdb
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\obj\Debug\MagmaTests.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\obj\Debug\MagmaTests.dll
+C:\Users\Brandon\Documents\C346\Magma Current\MagmaTests\obj\Debug\MagmaTests.pdb
