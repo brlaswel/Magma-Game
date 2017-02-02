@@ -49,4 +49,4 @@ The map should interact with the characters appropriately (i.e. user should not 
 
 #4 View
 
-![Architecture Diagram](/images/architecture.png)
+![Architecture Diagram](/architecture.png)
